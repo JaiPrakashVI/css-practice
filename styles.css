@@ -1,0 +1,33 @@
+
+h1{
+    font-size: 35px;
+    font-weight: 500px;
+    font-family:
+}
+
+h3{
+    font-size: 20px;
+    font-weight: 500px;
+    font-family: 
+}
+
+.confirm{
+    font-size: 32px;
+    color: white;
+    font-weight: 400px;
+    background-color: green;
+    border-color: black;
+    margin-right: 6px;
+    cursor: pointer;
+    
+}
+.cancel{
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+    font-weight: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: black;
+    margin-right: 6px;
+    cursor: pointer;
+
+}
